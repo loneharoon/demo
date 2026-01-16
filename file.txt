@@ -1,5 +1,5 @@
 This is class X.
 We have another class tomorrow.
 We moved to new branch
-kdkkdkkd
-mango
+
+This time we will add some other text.
